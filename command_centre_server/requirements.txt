@@ -1,0 +1,1 @@
+This file lists all the Python packages needed to run the Command Centre server.Install them all using: pip install -r requirements.txtFlasklangchainlangchain_google_genaitavily-pythonlangchain-community
